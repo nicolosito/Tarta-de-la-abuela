@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>La tarta de la abuela</title>
+  <meta name="autor" content="Nicolás Jaraiz">
+  <meta name="descripción" content="Esta es la tarta de mi abuela">
+  <link rel="icono" href="https://imag.bonviveur.com/tarta-de-la-abuela-de-galletas-crema-y-chocolate.jpg" type="image/jpg">
+</head>
+<body>
+  <header>
+    <h1>Ingredientes</h1>
+  </header>
+  <header>
+    <h2>Preparación</nav></h2>
+  </header>
+  <header>
+    <h2>Yummy Yummy</h2>
+  </header>
+  <p>Esta es la famosisima tarta de <em>MI ABUELA</em>.</p>
+  <a href="https://www.uppers.es/ciencia-y-tecnologia/redes-sociales/abecedario-abuela-frases-miticas-be5ma_18_3094095079.html">Esta de aqui, es mi abuela</a>
+  <img src="imatge.jpg" alt="Descripció de la imatge">
+  <p>Caracteres especiales: &lt; &gt; &quot; &#39; &amp;</p>
+  <!-- COMENTARIO -->
+</body>
+</html>
